@@ -2,7 +2,7 @@ import React from 'react'
 
 function lawda() {
   return (
-    <div>lawda</div>
+    <div>bada lawda</div>
   )
 }
 
